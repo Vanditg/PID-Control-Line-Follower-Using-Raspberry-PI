@@ -1,2 +1,37 @@
-# PID-Control-Line-Follower-Using-Raspberry-PI
-The Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and in developing countries.The Raspberry Pi primarily uses Raspbian, a Debian-based Linux operating system.A proportional–integral–derivative controller (PID controller) is a control loop feedback mechanism (controller) commonly used in industrial control systems. A PID controller continuously calculates an error value e(t) as the difference between a desired set point and a measured process variable and applies a correction based on proportional, integral, and derivative terms (sometimes denoted P, I, and D respectively) which give their name to the controller type. We have interfaced both things and in the output we have had the fastest response in line follower and it follows line fast with maximum response time.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/vandit25/PID-Control-Line-Follower-Using-Raspberry-PI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vandit25/PID-Control-Line-Follower-Using-Raspberry-PI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
